@@ -1,4 +1,6 @@
-<header>
+mkdir pset1
+mkdir pset1/mario
+cd pset1/mario
 
 <!--
   <<< Author notes: Course header >>>
